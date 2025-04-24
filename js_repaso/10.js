@@ -13,5 +13,6 @@ function fizzBuzz(numero) {
 
 fizzBuzz(3);
 fizzBuzz(5);
+fizzBuzz(15);
 fizzBuzz(30);
 fizzBuzz(7);
